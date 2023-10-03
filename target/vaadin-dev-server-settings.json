@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/letic/Downloads/sistema-escolar/sistema-escolar/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/letic/Downloads/sistema-escolar/sistema-escolar/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/letic/Downloads/sistema-escolar/sistema-escolar/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\letic\\Downloads\\sistema-escolar\\sistema-escolar\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\letic\\Downloads\\sistema-escolar\\sistema-escolar\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/letic/Downloads/sistema-escolar/sistema-escolar/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/letic/Downloads/sistema-escolar/sistema-escolar/src/main/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/letic/Downloads/sistema-escolar/sistema-escolar/./frontend/generated/jar-resources",
+  "themeName": "sistemaescolar",
+  "clientServiceWorkerSource": "C:\\Users\\letic\\Downloads\\sistema-escolar\\sistema-escolar\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
